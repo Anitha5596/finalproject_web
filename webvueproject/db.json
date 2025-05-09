@@ -1,0 +1,244 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "PlaceName": "Silparamam",
+      "Address": "Kadapa, Andhra Pradesh",
+      "VisitingTime": "OPEN 9AM-8PM",
+      "EntryFee": "Free",
+      "Rating": 4.5
+    },
+    {
+      "id": 2,
+      "PlaceName": "Bara Shaheed Dargah",
+      "Address": "Nellore, Andhra Pradesh",
+      "VisitingTime": "OPEN 9AM-8PM",
+      "EntryFee": "Free",
+      "Rating": 4.8
+    },
+    {
+      "id": 3,
+      "PlaceName": "Charminar",
+      "Address": "Hyderabad, Telangana",
+      "VisitingTime": "OPEN 9AM-8PM",
+      "EntryFee": "Free",
+      "Rating": 4.5
+    },
+    {
+      "id": 4,
+      "PlaceName": "Rushikonda Beach",
+      "Address": "Visakhapatnam, Andhra Pradesh",
+      "VisitingTime": "OPEN 24/7",
+      "EntryFee": "Free",
+      "Rating": 4.5
+    },
+    {
+      "id": 5,
+      "PlaceName": "Sri Venkateswara Swamy Temple",
+      "Address": "Tirupati, Andhra Pradesh",
+      "VisitingTime": "OPEN 3AM-11PM",
+      "EntryFee": "Free",
+      "Rating": 4.8
+    },
+    {
+      "id": 6,
+      "PlaceName": "Taj Mahal",
+      "Address": "Agra, Uttar Pradesh",
+      "VisitingTime": "OPEN 6AM-6:30PM",
+      "EntryFee": "₹50",
+      "Rating": 5.0
+    },
+    {
+      "id": 7,
+      "PlaceName": "Qutub Minar",
+      "Address": "Delhi",
+      "VisitingTime": "OPEN 7AM-5PM",
+      "EntryFee": "₹40",
+      "Rating": 4.6
+    },
+    {
+      "id": 8,
+      "PlaceName": "India Gate",
+      "Address": "New Delhi",
+      "VisitingTime": "OPEN 24/7",
+      "EntryFee": "Free",
+      "Rating": 4.7
+    },
+    {
+      "id": 9,
+      "PlaceName": "Golden Temple",
+      "Address": "Amritsar, Punjab",
+      "VisitingTime": "OPEN 24/7",
+      "EntryFee": "Free",
+      "Rating": 4.9
+    },
+    {
+      "id": 10,
+      "PlaceName": "Mysore Palace",
+      "Address": "Mysuru, Karnataka",
+      "VisitingTime": "OPEN 10AM-5:30PM",
+      "EntryFee": "₹70",
+      "Rating": 4.5
+    },
+    {
+      "id": 11,
+      "PlaceName": "Meenakshi Temple",
+      "Address": "Madurai, Tamil Nadu",
+      "VisitingTime": "OPEN 5AM-12:30PM, 4PM-10PM",
+      "EntryFee": "Free",
+      "Rating": 4.8
+    },
+    {
+      "id": 12,
+      "PlaceName": "Hampi Monuments",
+      "Address": "Hampi, Karnataka",
+      "VisitingTime": "OPEN 6AM-6PM",
+      "EntryFee": "₹30",
+      "Rating": 4.7
+    },
+    {
+      "id": 13,
+      "PlaceName": "Backwaters",
+      "Address": "Alleppey, Kerala",
+      "VisitingTime": "OPEN 24/7",
+      "EntryFee": "Boat Charges Apply",
+      "Rating": 4.6
+    },
+    {
+      "id": 14,
+      "PlaceName": "Ajanta Caves",
+      "Address": "Aurangabad, Maharashtra",
+      "VisitingTime": "OPEN 9AM-5:30PM",
+      "EntryFee": "₹40",
+      "Rating": 4.7
+    },
+    {
+      "id": 15,
+      "PlaceName": "Ellora Caves",
+      "Address": "Aurangabad, Maharashtra",
+      "VisitingTime": "OPEN 9AM-5PM",
+      "EntryFee": "₹40",
+      "Rating": 4.6
+    },
+    {
+      "id": 16,
+      "PlaceName": "Gateway of India",
+      "Address": "Mumbai, Maharashtra",
+      "VisitingTime": "OPEN 24/7",
+      "EntryFee": "Free",
+      "Rating": 4.5
+    },
+    {
+      "id": 17,
+      "PlaceName": "Marine Drive",
+      "Address": "Mumbai, Maharashtra",
+      "VisitingTime": "OPEN 24/7",
+      "EntryFee": "Free",
+      "Rating": 4.4
+    },
+    {
+      "id": 18,
+      "PlaceName": "City Palace",
+      "Address": "Jaipur, Rajasthan",
+      "VisitingTime": "OPEN 9:30AM-5PM",
+      "EntryFee": "₹100",
+      "Rating": 4.3
+    },
+    {
+      "id": 19,
+      "PlaceName": "Hawa Mahal",
+      "Address": "Jaipur, Rajasthan",
+      "VisitingTime": "OPEN 9AM-5PM",
+      "EntryFee": "₹50",
+      "Rating": 4.6
+    },
+    {
+      "id": 20,
+      "PlaceName": "Jaisalmer Fort",
+      "Address": "Jaisalmer, Rajasthan",
+      "VisitingTime": "OPEN 8AM-6PM",
+      "EntryFee": "₹30",
+      "Rating": 4.7
+    },
+    {
+      "id": 21,
+      "PlaceName": "Kaziranga National Park",
+      "Address": "Assam",
+      "VisitingTime": "OPEN 7AM-4PM",
+      "EntryFee": "₹100",
+      "Rating": 4.6
+    },
+    {
+      "id": 22,
+      "PlaceName": "Darjeeling Toy Train",
+      "Address": "Darjeeling, West Bengal",
+      "VisitingTime": "OPEN 7AM-5PM",
+      "EntryFee": "Train Fare",
+      "Rating": 4.5
+    },
+    {
+      "id": 23,
+      "PlaceName": "Ranthambore National Park",
+      "Address": "Sawai Madhopur, Rajasthan",
+      "VisitingTime": "OPEN 6AM-6PM",
+      "EntryFee": "₹150",
+      "Rating": 4.4
+    },
+    {
+      "id": 24,
+      "PlaceName": "Konark Sun Temple",
+      "Address": "Konark, Odisha",
+      "VisitingTime": "OPEN 6AM-8PM",
+      "EntryFee": "₹40",
+      "Rating": 4.7
+    },
+    {
+      "id": 25,
+      "PlaceName": "Jagannath Temple",
+      "Address": "Puri, Odisha",
+      "VisitingTime": "OPEN 5AM-11PM",
+      "EntryFee": "Free",
+      "Rating": 4.8
+    },
+    {
+      "id": 26,
+      "PlaceName": "Ramoji Film City",
+      "Address": "Hyderabad, Telangana",
+      "VisitingTime": "OPEN 9AM-5:30PM",
+      "EntryFee": "₹1150",
+      "Rating": 4.3
+    },
+    {
+      "id": 27,
+      "PlaceName": "Rock Garden",
+      "Address": "Chandigarh",
+      "VisitingTime": "OPEN 9AM-6PM",
+      "EntryFee": "₹30",
+      "Rating": 4.5
+    },
+    {
+      "id": 28,
+      "PlaceName": "Sundarbans",
+      "Address": "West Bengal",
+      "VisitingTime": "Depends on boat tours",
+      "EntryFee": "Boat Charges Apply",
+      "Rating": 4.6
+    },
+    {
+      "id": 29,
+      "PlaceName": "Nilgiri Mountain Railway",
+      "Address": "Ooty, Tamil Nadu",
+      "VisitingTime": "Train Timings Apply",
+      "EntryFee": "Train Fare",
+      "Rating": 4.4
+    },
+    {
+      "id": 30,
+      "PlaceName": "Leh Palace",
+      "Address": "Leh, Ladakh",
+      "VisitingTime": "OPEN 9AM-4PM",
+      "EntryFee": "₹25",
+      "Rating": 4.7
+    }
+  ]
+}
